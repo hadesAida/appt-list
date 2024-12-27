@@ -1,0 +1,108 @@
+[
+    {
+        "id": 1,
+        "name": "Modern Studio at the Gates of Paris",
+        "location": "Issy-les-Moulineaux, France",
+        "address": "12 Rue de la Liberté, 92130 Issy-les-Moulineaux, France",
+        "price": "27,250 tenge/night",
+        "guests": 1,
+        "details": {
+            "type": "Entire home",
+            "bedrooms": "Studio",
+            "beds": 1,
+            "baths": 1
+        },
+        "host": {
+            "name": "Christophe",
+            "status": "Superhost",
+            "experience": "9 years hosting"
+        },
+        "amenities": [
+            "Free WiFi",
+            "Smart TV",
+            "Equipped kitchen",
+            "Large shower",
+            "Desk for laptop"
+        ],
+        "imageURL": "https://www.airbnb.com/rooms/40434921?modal=PHOTO_TOUR_SCROLLABLE&modalItem=918237636"
+    },
+    {
+        "id": 2,
+        "name": "Nice Small Bedroom in a Nice Small House",
+        "location": "Clichy, France",
+        "address": "45 Avenue des Lilas, 92110 Clichy, France",
+        "price": "27,000 tenge/night",
+        "guests": 1,
+        "details": {
+            "type": "Room in a townhouse",
+            "bedrooms": "1 small double bedroom",
+            "beds": 1,
+            "baths": "Shared"
+        },
+        "host": {
+            "name": "David",
+            "status": "Superhost",
+            "experience": "12 years hosting"
+        },
+        "amenities": [
+            "Shared kitchen",
+            "Shared bathroom",
+            "Close to metro lines 14 and 13",
+            "Restaurants and bars nearby"
+        ],
+        "imageURL": "https://www.airbnb.com/rooms/52128141?modal=PHOTO_TOUR_SCROLLABLE&modalItem=1597704538"
+    },
+    {
+        "id": 3,
+        "name": "Victor Hugo - Arc de Triomphe",
+        "location": "Paris, France",
+        "address": "8 Rue Victor Hugo, 75116 Paris, France",
+        "price": "49,726 tenge/night",
+        "guests": 2,
+        "details": {
+            "type": "Entire rental unit",
+            "bedrooms": 1,
+            "beds": 1,
+            "baths": 1
+        },
+        "host": {
+            "name": "Klimchuk",
+            "status": "Standard host",
+            "experience": "1 year hosting"
+        },
+        "amenities": [
+            "Free WiFi",
+            "Close to Arc de Triomphe",
+            "Close to Eiffel Tower",
+            "Comfortable and quiet"
+        ],
+        "imageURL": "https://www.airbnb.com/rooms/1294342637635610797?modal=PHOTO_TOUR_SCROLLABLE&modalItem=2034159770"
+    },
+    {
+        "id": 4,
+        "name": "Quiet and Cozy Studio Paris Centre",
+        "location": "Paris, France",
+        "address": "15 Rue Montorgueil, 75002 Paris, France",
+        "price": "56,299 tenge/night",
+        "guests": 2,
+        "details": {
+            "type": "Private room in rental unit",
+            "bedrooms": "Studio",
+            "beds": 1,
+            "baths": 1
+        },
+        "host": {
+            "name": "Marc",
+            "status": "Superhost",
+            "experience": "4 years hosting"
+        },
+        "amenities": [
+            "Large mezzanine with mattress",
+            "Nespresso machine with pods",
+            "Towel dryer",
+            "Central location near Marais and Pompidou",
+            "8-minute walk to Châtelet les Halles station"
+        ],
+        "imageURL": "https://www.airbnb.com/rooms/50027315?modal=PHOTO_TOUR_SCROLLABLE&modalItem=1788293150"
+    }
+]
